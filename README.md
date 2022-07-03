@@ -3,13 +3,13 @@
 Design a parking lot using object-oriented principles
 
 Goals:
-- Your solution should be in Java - if you would like to use another language, please let the interviewer know.
+- Your solution should be in Java.
 
 Assumptions:
 - The parking lot can hold motorcycles, cars and vans
 - The parking lot has motorcycle spots, car spots and large spots
-- A motorcycle can park in any spot
-- A car can park in a single compact spot, or a regular spot
+- A motorcycle can park in a motorcycle spot OR a regular spot
+- A car can park in a regular spot
 - A van can park, but it will take up 3 regular spots
 - These are just a few assumptions. Feel free to ask your interviewer about more assumptions as needed
 
