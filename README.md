@@ -1,4 +1,4 @@
-*Car park tech test*
+# Car Park Tech Test #
 
 Design a parking lot using object-oriented principles
 
