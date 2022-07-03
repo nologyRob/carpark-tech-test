@@ -1,7 +1,5 @@
 *Car park tech test*
 
-**Question**
-
 Design a parking lot using object-oriented principles
 
 Goals:
