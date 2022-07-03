@@ -21,6 +21,20 @@ Here are a few methods that you should be able to run:
 - Tell us when certain spots are full e.g. when all motorcycle spots are taken
 - Tell us how many spots vans are taking up
 
+# Suggestions for Classes #
+
+At a very minimum we expect to see:
+
+- Vehicle Class 
+- Motorcycle Class
+- Car Class
+- Van Class
+- Car Park Class
+- A method to populate the car park
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
 
 **A solution**
 
