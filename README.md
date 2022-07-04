@@ -7,7 +7,7 @@ Goals:
 
 Assumptions:
 - The parking lot can hold motorcycles, cars and vans
-- The parking lot has motorcycle spots and car spots spots
+- The parking lot has motorcycle spots and car spots.
 - A motorcycle can park in a motorcycle spot OR a regular spot
 - A car can park in a regular spot
 - A van can park, but it will take up 3 regular spots
